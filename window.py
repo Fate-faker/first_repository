@@ -21,6 +21,7 @@ import os
 
 
 print("Hello world!")
+print(40*"*")
 # class CustomToolbar(NavigationToolbar):  # 自定义导航栏
 #     def __init__(self, canvases, parent):
 #         self.canvases = canvases
